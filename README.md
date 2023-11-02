@@ -13,7 +13,4 @@
 
  [https://chiefs-place-pizza.netlify.app/](https://chiefs-place-pizza.netlify.app/)
  
-
-
-
-![Alt text](gif.com-video-to-gif.gif)
+![Pizzasite gif](/images/pizzasite.gif)
