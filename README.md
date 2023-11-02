@@ -8,7 +8,12 @@
  - Google harita desteği
  - Navbar bağlantıları
  Site bağlantısı:
+
+
+
  [https://chiefs-place-pizza.netlify.app/](https://chiefs-place-pizza.netlify.app/)
  
- ![](C:\Users\Egemen\Downloads\ezgif.com-video-to-gif.gif)
- 
+
+
+
+![Alt text](gif.com-video-to-gif.gif)
